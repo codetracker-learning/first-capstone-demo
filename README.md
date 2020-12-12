@@ -1,6 +1,6 @@
 # Presentation Instructions
 
-Each presentation should take approximately 5 minutes and cover the following material:
+Each presentation should take approximately 3-5 minutes and cover the following material:
 
 1. Goals (30 seconds)
   * Pull these from your elevator summary, user stories and/or README
@@ -9,7 +9,7 @@ Each presentation should take approximately 5 minutes and cover the following ma
   * In particular, demonstrating the ability to sign in/sign up is a poor use of time unless there is something special about you sign in/up process.
 3. Lessons Learned (1 minute)
   * This can be cathartic!
-4. Question and Answer time (up to 5 minutes)
+4. Question and Answer time (up to 3 minutes)
   * There will be questions, I promise.  Ask for questions and then pause while people gather their thoughts.
 
 ## Important points to remember:
