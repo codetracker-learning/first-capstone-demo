@@ -13,11 +13,12 @@ Each presentation should take approximately 3-5 minutes and cover the following 
   * There will be questions, I promise.  Ask for questions and then pause while people gather their thoughts.
 
 ## Important points to remember:
+- Use a tool to assist preparing your presentation (Google Docs has slides). This should take you no more than 10 minutes to complete.
+- Speak loudly and clearly, and face your audience.
+- Be positive and use positive words. DO NOT emphasize broken parts of the program. If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
+- DO NOT insult your own work. People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
+- Avoid referencing other student's presentations in a "well, they covered everything I had to say on my lessons learned". Your presentation should stand alone.
+- Your presentation and application should be complete the evening before presentations. You are expected to have your laptop closed and your attention on the presenter during the presentations.
 
-* You should use the slide deck in this folder (or a similar one of your own creation) to assist in your presentation.  Filling in the presentation template should take you no more than 5 minutes.
-* If you have a slide deck through an online service, ensure that you have a local copy of it just in case.
-* Speak loudly and clearly, facing your audience.
-* DO NOT emphasize broken parts of the program.  If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
-* DO NOT insult your own work.  People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
-* Avoid referencing other student's presentations in a "well, they covered everything I had to say on my lessons learned".  Your presentation should stand alone.
-* Your presentation and application should be complete the evening before presentations. You are expected to have your laptop closed and your attention on the presenter during the presentations.
+## [Capstone Tips Document](https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit)
+
